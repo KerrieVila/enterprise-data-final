@@ -1,0 +1,29 @@
+body{
+  margin: 40px 60px;
+}
+
+#story{
+  max-width: 1000;
+  margin: 0 auto;
+}
+
+.data {
+  color: #696969;
+}
+
+
+.author{
+  color: #696969;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+}
+
+figcaption {
+  margin: 15px 0px;
+  color: #696969;
+  font-size: 10px;
+
+}
