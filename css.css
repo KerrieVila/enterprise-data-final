@@ -19,11 +19,13 @@ body{
 
 h1{
   text-align: center;
+  max-width: 800px;
+  margin: 20 auto;
 }
 
 figcaption {
-  margin: 15px 0px;
+  margin: 15px 0px 30px 0px;
   color: #696969;
-  font-size: 10px;
+  font-size: 12px;
 
 }
